@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "月に向かって撃て",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-03-29T07:29:19.015135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月に向かって撃て",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_月に向かって撃て_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月に向かって撃て",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_月に向かって撃て_星街すいせい.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "月に向かって撃て",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/localdb_01_月に向かって撃て_星街すいせい.txt",
+      "repo_name": "DeAD2b1x3tQ"
+    }
+  ]
+}
